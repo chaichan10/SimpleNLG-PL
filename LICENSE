@@ -352,22 +352,26 @@ If You choose to distribute Source Code Form that is Incompatible With
 Secondary Licenses under the terms of this version of the License, the
 notice described in Exhibit B of this License must be attached.
 
-Exhibit A - Source Code Form License Notice
--------------------------------------------
+EXHIBIT A -Mozilla Public License.
 
-  This Source Code Form is subject to the terms of the Mozilla Public
-  License, v. 2.0. If a copy of the MPL was not distributed with this
-  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+     ``The contents of this file are subject to the Mozilla Public License
+     Version 1.1 (the "License"); you may not use this file except in
+     compliance with the License. You may obtain a copy of the License at
+     http://www.mozilla.org/MPL/
 
-If it is not possible or desirable to put the notice in a particular
-file, then You may include the notice in a location (such as a LICENSE
-file in a relevant directory) where a recipient would be likely to look
-for such a notice.
+     Software distributed under the License is distributed on an "AS IS"
+     basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
+     License for the specific language governing rights and limitations
+     under the License.
 
-You may add additional accurate notices of copyright ownership.
+     The Original Code is SimpleNLG.
 
-Exhibit B - "Incompatible With Secondary Licenses" Notice
----------------------------------------------------------
+     The Initial Developer of the Original Code is Dave Westwater, Albert Gatt, and Ehud Reiter.
+     Portions created by Dave Westwater, Albert Gatt, and Ehud Reiter are Copyright (C) 2010-11
+     The University of Aberdeen. All Rights Reserved.
 
-  This Source Code Form is "Incompatible With Secondary Licenses", as
-  defined by the Mozilla Public License, v. 2.0.
+     Contributor(s): Ehud Reiter, Albert Gatt, Dave Westwater, Roman Kutlak, Margaret Mitchell, and Saad Mahamood.
+     
+     Contributor(s) German version: Kira Klimt, Daniel Braun, Technical University of Munich
+	 
+	 Contributor(s) Polish version: Sasha Gdaniec
